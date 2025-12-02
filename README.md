@@ -28,14 +28,6 @@ Tenho interesse em construir soluções tecnológicas que impactem positivamente
 
 ---
 
-## Estatísticas
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gravonski&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravonski&layout=compact&langs_count=6&theme=dark&title_color=FFD700&text_color=FFFFFF"/>
-</p>
-
----
 
 ## Contato
 
