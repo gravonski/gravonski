@@ -25,6 +25,7 @@ Tenho interesse em construir soluções tecnológicas que impactem positivamente
 > *Projetos utilizando tecnologias e linguagens de domínio*
 
 - [**Cadastro de Ninjas**](https://github.com/gravonski/CadastroDeNinjas): Aplicação web com Angular e Spring Boot simulando um sistema de cadastro de ninjas.
+- [**AdotePet**](https://github.com/gravonski/AdotePet): Aplicação web desenvolvida em SpringBoot, Bootstrap, utilizando também PostgresSql e Docker, onde temos uma plataforma que conecta as ONG's de proteção animal à comunidade.
 
 ---
 
